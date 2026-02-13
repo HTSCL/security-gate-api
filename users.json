@@ -1,1 +1,12 @@
-
+{
+  "users": [
+    {
+      "robloxUserId": 8930788286,
+      "firstName": "Lucas",
+      "lastName": "Admin",
+      "discord": "lucas#0000",
+      "rank": "Administrateur",
+      "photoUrl": ""
+    }
+  ]
+}
